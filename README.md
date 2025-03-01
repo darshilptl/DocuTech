@@ -32,7 +32,7 @@ This project is a React skills evaluation assignment provided by **Classy Endeav
 
 ## Live Demo
 
-If available, you can view a live demo of the project here: https://docutech.vercel.app
+You can view a live demo of the project here: https://docutech.vercel.app
 
 ---
 
